@@ -1,8 +1,3 @@
-Yii 2 Basic Project Template
-============================
-
-Test case for RGK-Group
-
 CONFIGURATION
 -------------
 
