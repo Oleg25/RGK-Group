@@ -1,4 +1,4 @@
-CONFIGURATION
+Test task for RGK Group
 -------------
 
 ### Database
